@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sapta/static/css/main.1c48a3a0.css",
+    "main.js": "/sapta/static/js/main.cd3d7fbc.js",
+    "static/js/453.ff0086cd.chunk.js": "/sapta/static/js/453.ff0086cd.chunk.js",
+    "static/media/sapta1.jpg": "/sapta/static/media/sapta1.a6c65cf4a4da610ab8ac.jpg",
+    "static/media/about.jpg": "/sapta/static/media/about.50d8fa0695f86b593804.jpg",
+    "static/media/vision.jpg": "/sapta/static/media/vision.c63e5217e3057ad4dbdd.jpg",
+    "static/media/mission.jpg": "/sapta/static/media/mission.36fc184c5c2b467db088.jpg",
+    "static/media/taskbarlogo.png": "/sapta/static/media/taskbarlogo.a229a03982febc369384.png",
+    "index.html": "/sapta/index.html",
+    "main.1c48a3a0.css.map": "/sapta/static/css/main.1c48a3a0.css.map",
+    "main.cd3d7fbc.js.map": "/sapta/static/js/main.cd3d7fbc.js.map",
+    "453.ff0086cd.chunk.js.map": "/sapta/static/js/453.ff0086cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c48a3a0.css",
+    "static/js/main.cd3d7fbc.js"
+  ]
+}
