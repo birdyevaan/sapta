@@ -3,8 +3,8 @@ import Taskbar from './components/Taskbar';
 import Footer from './components/Footer';
 import Aboutus from './components/Aboutus';
 import Services from './components/Services';
-import { Route, Routes, HashRouter } from "react-router-dom";
 import Landing from './components/Landing';
+import { Route, Routes, HashRouter } from "react-router-dom";
 
 function App() {
   return (
